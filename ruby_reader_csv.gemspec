@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   El metodo  total_value_in_stock permite saber el valor total de los libros en stock 
   El metodo  number_of_each_isbn devuelve un hash con el ISBN como clave y como valor la 
   cantidad de veces que se poroceso ese ISBN "
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "http://rubygems.org/gems/ruby_reader_csv"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
